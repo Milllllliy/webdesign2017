@@ -1,0 +1,66 @@
+header {
+    font-family:'Gloria Hallelujah',cursive;
+    color:orange;
+}
+
+h1,h2,h3{
+	text-align: center;
+	margin: 5px;
+}
+h1{
+	font-size: 36px;
+}
+h2{
+	font-size: 24px;
+}   
+h3{
+	font-size: 18px;
+}
+
+#content {
+	width:740px;
+	margin: auto;
+	font-family:'Gloria Hallelujah',cursive;
+}
+
+.image-container{
+	width:350px;
+	height:350px;
+	margin: 10px;
+	text-align: center;
+	float:left;
+}
+
+#image1{
+	background-image: url(image/1.jpg);
+	background-size: contain;
+}
+
+#image2{
+	background-image: url(image/2.jpg);
+	background-size: contain;
+
+}
+
+#image3{
+	background-image: url(image/3.jpg);
+	background-size: contain;
+}
+
+#image4{
+	background-image: url(image/4.jpg);
+	background-size: contain;
+}
+
+#image5{
+    background-image: url(giphy.gif);
+    background-size: cover;
+}
+
+#image6{
+	background-image: url(image/5.jpg);
+    background-size: contain;
+}
+
+.clear{
+	clear: both;
