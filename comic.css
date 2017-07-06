@@ -32,23 +32,23 @@ h3{
 }
 
 #image1{
-	background-image: url(image/1.jpg);
+	background-image: url(1.jpg);
 	background-size: contain;
 }
 
 #image2{
-	background-image: url(image/2.jpg);
+	background-image: url(2.jpg);
 	background-size: contain;
 
 }
 
 #image3{
-	background-image: url(image/3.jpg);
+	background-image: url(3.jpg);
 	background-size: contain;
 }
 
 #image4{
-	background-image: url(image/4.jpg);
+	background-image: url(4.jpg);
 	background-size: contain;
 }
 
@@ -58,7 +58,7 @@ h3{
 }
 
 #image6{
-	background-image: url(image/5.jpg);
+	background-image: url(5.jpg);
     background-size: contain;
 }
 
